@@ -1,4 +1,4 @@
-# Terrian-Rendering-
+# TERRAIN-RENDERING-
 Terrian Rendering methods 
 
 I have implemented 2 terrian Rendering methods. First one is a simple 2D demonstration of the complexity of terrain by rendering using **Delaunay triangulation**, implemented by using **Bowyer Watson Algorithm**. Second one is the implementation of the **Real Time Optimally Adapting Meshes Algorithm (ROAM)** for 3D rendering of the terrain. The second method is based on the algorithm proposed in the this [research paper](https://www.gamasutra.com/view/feature/131596/realtime_dynamic_level_of_detail_.php).
